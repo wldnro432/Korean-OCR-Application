@@ -1,0 +1,2 @@
+model_checkpoint_path: "CRNN_01_42.603.ckpt"
+all_model_checkpoint_paths: "CRNN_01_42.603.ckpt"
